@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+
+This small demo shows how online news or blog page with stripe with React.js using a serverless function. The project also shows how a number of concepts work in React, using centralized state management with Context API and Hooks for product details. Of note, using computed properties, .sync, CSS,Bootstrap,<br/>
+the project has<br/>
+implemented search functionality for news title with highlight<br/>
+having carousel banner that runs random photos<br/>
+implemented pagination <br/>
+<br/>
+deployed at [https://724news.netlify.com/](https://724news.netlify.com/)
+
 
 ## Available Scripts
 
@@ -8,6 +17,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+<br/>
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
